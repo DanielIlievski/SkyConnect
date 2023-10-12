@@ -1,0 +1,431 @@
+{
+  "departures": [
+    {
+      "flightId": 397615271,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7706,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "TRF",
+        "iata": "TRF",
+        "name": "Torp Sandefjord Airport",
+        "city": "Oslo"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T08:15:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T11:15:00.000"
+      },
+      "status": "L",
+      "flightDurations": {
+        "scheduledBlockMinutes": 180
+      },
+      "airportResources": {
+        "departureGate": "101",
+        "arrivalGate": "A11"
+      }
+    },
+    {
+      "flightId": 397615272,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7766,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "MLA",
+        "iata": "MLA",
+        "name": "Malta International Airport",
+        "city": "Malta"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T09:15:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T11:45:00.000"
+      },
+      "status": "IR",
+      "flightDurations": {
+        "scheduledBlockMinutes": 150
+      },
+      "airportResources": {
+        "departureGate": "201"
+      }
+    },
+    {
+      "flightId": 397615273,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7710,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "GOT",
+        "iata": "GOT",
+        "name": "Goteborg Landvetter Airport",
+        "city": "Gothenburg"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T12:35:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T15:45:00.000"
+      },
+      "status": "DEL",
+      "flightDurations": {
+        "scheduledBlockMinutes": 190
+      },
+      "airportResources": {
+        "departureGate": "203"
+      }
+    },
+    {
+      "flightId": 397615274,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7712,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "MMX",
+        "iata": "MMX",
+        "name": "Malmo Airport",
+        "city": "Malmo"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T12:50:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T16:10:00.000"
+      },
+      "status": "C",
+      "flightDurations": {
+        "scheduledBlockMinutes": 200
+      },
+      "airportResources": {
+        "departureGate": "206"
+      }
+    },
+    {
+      "flightId": 397615275,
+      "carrier": {
+        "fs": "TK",
+        "iata": "TK",
+        "name": "Turkish Airlines"
+      },
+      "flightNumber": 1005,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "ISL",
+        "iata": "IST",
+        "name": "Istanbul Airport",
+        "city": "Istanbul"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T14:00:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T15:10:00.000"
+      },
+      "status": "R",
+      "flightDurations": {
+        "scheduledBlockMinutes": 70
+      },
+      "airportResources": {
+        "departureGate": "204"
+      }
+    },
+    {
+      "flightId": 397615276,
+      "carrier": {
+        "fs": "LH",
+        "iata": "LH",
+        "name": "Lufthansa"
+      },
+      "flightNumber": 1542,
+      "departureAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "arrivalAirport": {
+        "fs": "HHN",
+        "iata": "HHN",
+        "name": "Frankfurt - Hahn Airport",
+        "city": "Frankfurt"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T14:20:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T16:40:00.000"
+      },
+      "status": "A",
+      "flightDurations": {
+        "scheduledBlockMinutes": 140
+      },
+      "airportResources": {
+        "departureGate": "101"
+      }
+    }
+  ],
+  "arrivals": [
+    {
+      "flightId": 397615282,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7766,
+      "departureAirport": {
+        "fs": "MLA",
+        "iata": "MLA",
+        "name": "Malta International Airport",
+        "city": "Malta"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T08:00:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T10:30:00.000"
+      },
+      "status": "L",
+      "flightDurations": {
+        "scheduledBlockMinutes": 150
+      },
+      "airportResources": {
+        "departureGate": "A33",
+        "arrivalGate": "101",
+        "departureTerminal": "A",
+        "baggage": "02"
+      }
+    },
+    {
+      "flightId": 397615281,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7706,
+      "departureAirport": {
+        "fs": "TRF",
+        "iata": "TRF",
+        "name": "Torp Sandefjord Airport",
+        "city": "Oslo"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T08:30:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T11:30:00.000"
+      },
+      "status": "IR",
+      "flightDurations": {
+        "scheduledBlockMinutes": 180
+      },
+      "airportResources": {
+        "departureGate": "B32",
+        "arrivalGate": "201",
+        "departureTerminal": "B",
+        "baggage": "01"
+      }
+    },
+    {
+      "flightId": 397615283,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7710,
+      "departureAirport": {
+        "fs": "GOT",
+        "iata": "GOT",
+        "name": "Goteborg Landvetter Airport",
+        "city": "Gothenburg"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T09:00:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T12:10:00.000"
+      },
+      "status": "DEL",
+      "flightDurations": {
+        "scheduledBlockMinutes": 190
+      },
+      "airportResources": {
+        "departureGate": "F08",
+        "arrivalGate": "204",
+        "departureTerminal": "F",
+        "baggage": "01"
+      }
+    },
+    {
+      "flightId": 397615284,
+      "carrier": {
+        "fs": "A3",
+        "iata": "A3",
+        "name": "Aegean Airlines"
+      },
+      "flightNumber": 987,
+      "departureAirport": {
+        "fs": "SJJ",
+        "iata": "SJJ",
+        "name": "Sarajevo International Airport",
+        "city": "Sarajevo"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T09:25:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T10:20:00.000"
+      },
+      "status": "C",
+      "flightDurations": {
+        "scheduledBlockMinutes": 55
+      },
+      "airportResources": {
+        "departureGate": "42",
+        "arrivalGate": "206"
+      }
+    },
+    {
+      "flightId": 397615285,
+      "carrier": {
+        "fs": "W6",
+        "iata": "W6",
+        "name": "Wizz Air"
+      },
+      "flightNumber": 7712,
+      "departureAirport": {
+        "fs": "MMX",
+        "iata": "MMX",
+        "name": "Malmo Airport",
+        "city": "Malmo"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T09:50:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T13:10:00.000"
+      },
+      "status": "R",
+      "flightDurations": {
+        "scheduledBlockMinutes": 200
+      },
+      "airportResources": {
+        "departureGate": "T12",
+        "arrivalGate": "101",
+        "departureTerminal": "T",
+        "baggage": "02"
+      }
+    },
+    {
+      "flightId": 397615286,
+      "carrier": {
+        "fs": "LH",
+        "iata": "LH",
+        "name": "Lufthansa"
+      },
+      "flightNumber": 1542,
+      "departureAirport": {
+        "fs": "HHN",
+        "iata": "HHN",
+        "name": "Frankfurt - Hahn Airport",
+        "city": "Frankfurt"
+      },
+      "arrivalAirport": {
+        "fs": "SKP",
+        "iata": "SKP",
+        "name": "Skopje International Airport",
+        "city": "Skopje"
+      },
+      "departureDate": {
+        "dateLocal": "2023-10-20T10:15:00.000"
+      },
+      "arrivalDate": {
+        "dateLocal": "2023-10-20T12:35:00.000"
+      },
+      "status": "A",
+      "flightDurations": {
+        "scheduledBlockMinutes": 140
+      },
+      "airportResources": {
+        "departureGate": "DF2",
+        "arrivalGate": "202",
+        "departureTerminal": "8",
+        "baggage": "01"
+      }
+    }
+  ]
+}
